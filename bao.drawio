@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="第 1 页" id="TwYUaC-a1CpHTZ6oVpY4">
-    <mxGraphModel>
+    <mxGraphModel dx="1572" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="61niebQx1IRzvQKm9kXk-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="254" width="590" height="496" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cdeb8b, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="510" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffcb99, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="510" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#b3dcee, #271d00);" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="270" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;天齐锂业公司整体&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="170" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-11" value="董事会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="337.5" width="100" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-12" value="制定战略方向、重大决策，成员由股东大会选举，含董事长、董事等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="380" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-13" value="专门委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="340" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-16" value="ESG 与可持续发展委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="385" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-17" value="审计委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="385" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-18" value="提名委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="430" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-19" value="薪酬与考核委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="430" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-25" value="首席执行官" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="573.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-26" value="执行副总裁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="625" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-27" value="财务副总裁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="675" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-28" value="营销副总裁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="675" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-29" value="总经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="573.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-30" value="技术副总裁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="625" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-31" value="行政企划部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="573.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-32" value="生产部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595.5" y="573.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-33" value="营销部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595.5" y="625" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-34" value="供应部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="625" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-35" value="财务部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="675" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-36" value="技术中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="572.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-37" value="基建办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595.5" y="675" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-38" value="库房管理部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="677.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-39" value="审计部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="625" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;公司治理层面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-42" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;管理层层面&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="530" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="61niebQx1IRzvQKm9kXk-43" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;部门层面&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
